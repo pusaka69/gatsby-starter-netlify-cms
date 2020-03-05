@@ -120,10 +120,6 @@ MacOS users might also encounter some errors, for more info check [node-gyp](htt
 
 This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gatsby-plugin-purgecss/) and [bulma](https://bulma.io/). The bulma builds are usually ~170K but reduced 90% by purgecss.
 
-## Our First Project With JAMStack
-
-Thank you [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gatsby-plugin-purgecss/) and [bulma](https://bulma.io/). Hit us on [Kotakpintar.com](https://kotakpintar.com).
-
 # CONTRIBUTING
 
 Contributions are always welcome, no matter how large or small. Before contributing,
